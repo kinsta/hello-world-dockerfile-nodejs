@@ -1,7 +1,7 @@
 # Kinsta - Hello World - Dockerfile - Node.js
 An example of deploying an application using a Dockerfile on Kinsta App Hosting services.
 
-> Kinsta’s Application Hosting is a service to run your web apps and any databases side by side in a hassle-free environment, tailored for developer needs and ease of use. App Hosting is currently in an invite-only beta phase, sign up for a test account at [kinsta.com/app-hosting](https://kinsta.com/app-hosting).
+> Kinsta’s Application Hosting is a service to run your web apps and any databases side by side in a hassle-free environment, tailored for developer needs and ease of use. App Hosting is currently in an invite-only beta phase, sign up for a test account at [kinsta.com/application-hosting](https://kinsta.com/application-hosting/).
 
 ## Deployment Lifecycle
 When first creating the app Kinsta will create a process from the `CMD` instruction. 
